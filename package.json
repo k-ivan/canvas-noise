@@ -1,0 +1,19 @@
+{
+  "name": "canvas-noise",
+  "version": "1.0.0",
+  "description": "Canvas noise effect",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack -p"
+  },
+  "author": "k-ivan",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.6.0"
+  }
+}
